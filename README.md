@@ -60,4 +60,5 @@ Serves the production build locally.
 - `File`: upload an audio file from your machine and visualize playback.
 - `Mic`: request microphone access and visualize live input.
 
+
 Browser audio requires a user gesture, so press `Play` before the demo, file audio, or microphone input starts.
